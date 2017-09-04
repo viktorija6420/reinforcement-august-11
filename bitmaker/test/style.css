@@ -1,0 +1,83 @@
+body {
+  background-color:#ffffe0;
+
+}
+
+
+nav li {
+  display: inline;
+  text-decoration-color: green;
+
+}
+
+.menu {
+  display: inline;
+  text-decoration-color: black;
+}
+
+.boxed1 {
+  height:600px;
+  border-style:solid;
+  position: absolute;
+  margin: 20px;
+  margin-left: 500px;
+  width: 30%;
+
+}
+
+.boxed2{
+  padding: 10px;
+  height:400px;
+  border-style: ridge;
+  border-color:#66cd00;
+  position: absolute;
+  margin-left: -400px;
+  margin-top: -520px;
+  width: 50%;
+
+}
+
+
+select {
+  name:LEARN LANGUAGES
+}
+
+.dropdown {
+
+  position: relative;
+
+}
+header {
+  background-color: #228b22;
+  border-color: #ff4040;
+  border-style:solid;
+}
+
+.boxed3 {
+  padding: 10px;
+  height:400px;
+  border-style: ridge;
+  border-color:#66cd00;
+  position: absolute;
+  margin-top: -520px;
+  margin-left: 500px;
+  margin-right: -50px;
+  width: 50%;
+
+
+}
+
+.column {
+  column-count: 3;
+  column-gap: normal;
+  column-rule-style: dotted;
+  column-rule-width: thick;
+  column-rule-color: black;
+}
+
+footer {
+  background-color:#ff4040;
+ border-style: dashed;
+ border-color: #228b22;
+
+}

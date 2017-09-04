@@ -1,0 +1,42 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-size: 32px;
+  line-height: 1.35;
+  
+}
+
+p {
+  font-size: 32px;
+  color: purple;
+  color: red;
+}
+
+h1 {font-size: 48px;
+background-color: chartreuse;
+}
+.highlight {
+  background-color: yellow;
+
+}
+.post {
+  background-color: tomato;
+}
+
+.post h1 {
+  background-color: teal;
+
+}
+
+
+.hero {
+  border: 10px dotted green;
+}
+
+#hero-unit {
+  background-color: cadetblue;
+}
+
+p {color: white;
+
+}
